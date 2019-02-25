@@ -1,0 +1,24 @@
+action
+FPS
+RTS
+adventure
+MMO
+platformer
+sport
+dungeon crawler
+city simulator
+fighting
+action adventure
+action RPG
+MMORPG
+turn based
+stealth
+survival horror
+open world
+MOBA
+beat 'em up
+visual novel
+roguelike
+racing
+dating sim
+rhythm
